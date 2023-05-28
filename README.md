@@ -1,4 +1,4 @@
-# PHP-Ajax-CRUD-operation
+# PHP Ajax CRUD Operation
 
 ## Project Description:
 In this project, a CRUD system was developed using PHP and Ajax technology. The project includes creating, reading, updating, and deleting records in the database using Ajax instead of reloading the entire page for each operation.
